@@ -1,4 +1,11 @@
 /tmp
 /node_modules
-package.json
-package-lock.json
+#package.json
+#package-lock.json
+/._
+/.txt
+#
+#
+# /index.js
+#
+# /notes.txt
